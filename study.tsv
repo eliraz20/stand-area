@@ -1,0 +1,4 @@
+plot	N	100
+plot	S	300
+stem	N	1	Oak	20
+stem	S	1	Oak	40
